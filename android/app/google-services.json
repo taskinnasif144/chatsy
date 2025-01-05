@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367228748745",
+    "project_id": "chatsy-2b7aa",
+    "storage_bucket": "chatsy-2b7aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367228748745:android:3f9eac21fc1a7d1e65de18",
+        "android_client_info": {
+          "package_name":"com.example.chatsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGa6dkwF2E08ytlD7shPVVEK4LJCBI7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
